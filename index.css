@@ -1,5 +1,27 @@
-.logo{
-color: bisque;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-font-style: oblique;
+.logo {
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
+
+.nav {
+    align-items: right;
+    list-style-type: none;
+    display: flex;
+}
+
+#section{
+    padding: 50px;
+    background-color: blueviolet;
+}
+
+li {
+    text-align: right;
+    display: flex;
+    font-size: larger;
+    margin-top: 30px;
+}
+
+body{
+    background-image: url(/Images/baack3.jpeg);
 }
