@@ -26,3 +26,16 @@ body{
     background-image: url(/Images/baack3.jpeg);
     scroll-margin: auto;
 }
+
+.cont{
+    text-align: center;
+    margin-bottom: 0px;
+
+}
+
+.menu {
+    padding: 50px;
+    color: blanchedalmond;
+    border: 1px solid black;
+
+}
