@@ -1,20 +1,8 @@
-.logo {
-    color: bisque;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-style: oblique;
-}
 
-.nav {
-    align-items: right;
-    list-style-type: none;
-    display: flex;
-}
-
-#section{
-    padding: 40px;
-    background-color: blueviolet;
-}
-
+ .section{
+     padding: 100px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
 li {
     text-align: right;
     display: flex;
@@ -37,5 +25,15 @@ body{
     padding: 50px;
     color: blanchedalmond;
     border: 1px solid black;
+    font-size: 1%;
 
+}
+
+.contact{
+    padding: 50p;
+}
+
+#fom{
+    background-image: url(/Images/back5.jpg);
+    padding: 50px;
 }
