@@ -2,6 +2,7 @@
  .section{
      padding: 100px;
      font-family: Arial, Helvetica, sans-serif;
+     background-color: blue;
  }
 li {
     text-align: right;
@@ -36,4 +37,10 @@ body{
 #fom{
     background-image: url(/Images/back5.jpg);
     padding: 50px;
+}
+
+.container-fluid{
+    color: red;
+    text-shadow: red;
+
 }
